@@ -1,1 +1,0 @@
-# salefind_parcer_bot
